@@ -4,3 +4,4 @@ MarkupSafe
 itsdangerous
 Werkzeug
 Click
+flask-mysql
